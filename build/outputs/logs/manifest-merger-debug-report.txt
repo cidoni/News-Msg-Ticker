@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4e20852495ffd67915a7b0d593994caf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.9.2.aar\30dd4a3e3b50394dd2b237e77b1fadcf\AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\96f4cc68751ba8df24db19fc322afe29\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\234994d5a748d2f7e97c8aac1011e403\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:3:5-56
+	android:versionName
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:5:5-30
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:4:5-28
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:7:22-64
+application
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:9:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4e20852495ffd67915a7b0d593994caf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4e20852495ffd67915a7b0d593994caf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\96f4cc68751ba8df24db19fc322afe29\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\96f4cc68751ba8df24db19fc322afe29\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4e20852495ffd67915a7b0d593994caf\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:10:9-35
+activity#com.amazonaws.demo.androidpubsubwebsocket.PubSubActivity
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:13:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:4:5-73
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4e20852495ffd67915a7b0d593994caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4e20852495ffd67915a7b0d593994caf\AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.9.2.aar\30dd4a3e3b50394dd2b237e77b1fadcf\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.9.2.aar\30dd4a3e3b50394dd2b237e77b1fadcf\AndroidManifest.xml:4:1-69
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\96f4cc68751ba8df24db19fc322afe29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\96f4cc68751ba8df24db19fc322afe29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\234994d5a748d2f7e97c8aac1011e403\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\234994d5a748d2f7e97c8aac1011e403\AndroidManifest.xml:20:5-44
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+		ADDED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from G:\Android\Workspace\aws-sdk-android-samples\AndroidPubSubWebSocket\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Cidoni\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.9.2.aar\e6c77d2cbb939d8bb9ddf8687ddd1e61\AndroidManifest.xml:7:22-76

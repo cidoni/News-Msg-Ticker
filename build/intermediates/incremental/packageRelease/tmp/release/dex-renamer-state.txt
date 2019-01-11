@@ -1,0 +1,4 @@
+#Tue Jan 08 20:24:42 CST 2019
+base.0=G\:\\Android\\Workspace\\aws-sdk-android-samples\\AndroidPubSubWebSocket\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
